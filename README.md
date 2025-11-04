@@ -1,2 +1,2 @@
 # backgroundimg
-bg-pemandangan
+bg-potrait-lanscape

@@ -1,2 +1,2 @@
-# pdpotrait
-bg-pemandangan-potrait
+# pd
+bg-pemandangan

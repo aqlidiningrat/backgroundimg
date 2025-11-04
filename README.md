@@ -1,2 +1,2 @@
-# backgroundpd
+# backgroundimg
 bg-pemandangan
